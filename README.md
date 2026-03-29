@@ -49,3 +49,20 @@ This project analyzes Superstore sales data to identify key business insights an
 
 ## 🚀 Conclusion
 This project helps businesses understand sales patterns and improve profitability using data-driven insights.
+
+---
+
+## 👤 Created By
+Vikram Dhakad
+
+---
+
+## 💡 What I Learned
+- Data cleaning using Excel
+- Writing SQL queries
+- Building dashboards in Power BI
+
+---
+
+## 🎯 Career Goal
+To become a skilled MIS Executive and Data Analyst
